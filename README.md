@@ -18,11 +18,8 @@ We use the information we collect to provide, maintain, and improve the App. Thi
 - Sending you updates about the App and new features
 
 **Sharing Your Information**
-All generation data is kept on your local device and is not shared with any servers. We do not sell or share your personal information with third parties except in the following circumstances:
 
-- With your consent: We may share your information with third parties if you give us your explicit consent to do so.
-- For legal reasons: We may be required to disclose your information to third parties if we receive a legal request, such as a court order or subpoena.
-- To protect our rights: We may share your information if we believe it is necessary to enforce our terms of service or protect the rights, property, or safety of AI QR Studio, our users, or the public.
+All photos data is kept on your local device and is not shared with any servers.
 
 **Changes to This Privacy Policy**
 
