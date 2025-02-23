@@ -23,6 +23,7 @@ All generation data is kept on your local device and is not shared with any serv
 - To protect our rights: We may share your information if we believe it is necessary to enforce our terms of service or protect the rights, property, or safety of AI QR Studio, our users, or the public.
 
 **Changes to This Privacy Policy**
+
 We may update this Privacy Policy from time to time to reflect changes in our practices or laws. We will post any updates to this page, so please review it regularly.
 
 **Contact Us**
